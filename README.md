@@ -7,6 +7,13 @@
 
 - 📫 How to reach me **jmsanchez275@gmail.com**
 
+<h3 align="left">My Recent Works</h3>
+<p align="left">
+Hacked Sony Through Their VDP<br>
+- <a href="https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">How I Escalated a Time-Based SQL Injection to RCE</a>
+
+![](https://raw.githubusercontent.com/jmrcsnchz/jmrcsnchz/main/Screenshot%202022-08-25%20031323.png)
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/0x41414100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/0x41414100" height="30" width="40" /></a>
