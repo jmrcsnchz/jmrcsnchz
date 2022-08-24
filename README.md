@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jmsanchez275@gmail.com**
 
-- 💻 [https://ctflearn.com/user/Echidna](https://ctflearn.com/user/Echidna)
+- 💻 [https://ctflearn.com/user/Echidna](https://ctflearn.com/user/Echidna)  |  [Hackerone Profile](https://hackerone.com/echidonut)
 
 <h3 align="left">My Recent Works</h3>
 <p align="left">
