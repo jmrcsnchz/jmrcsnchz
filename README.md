@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jmsanchez275@gmail.com**
 
-- <script src="https://tryhackme.com/badge/337518"></script> |  [Hackerone Profile](https://hackerone.com/echidonut)
+- <img src="https://tryhackme-badges.s3.amazonaws.com/JM.png" alt="TryHackMe"> |  [Hackerone Profile](https://hackerone.com/echidonut)
 
 <h3 align="left">My Recent Works</h3>
 <p align="left">
