@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JM</h1>
-<h3 align="center">Website Penetration Tester, Exploit Developer<br><br><img src="https://tryhackme-badges.s3.amazonaws.com/JM.png" alt="TryHackMe">  </h3>
+<h3 align="center">Website Penetration Tester, CTF Player<br><br><img src="https://tryhackme-badges.s3.amazonaws.com/JM.png" alt="TryHackMe">  </h3>
 
 - 📝 I regularly write articles on [https://jmrcsnchz.medium.com/](https://jmrcsnchz.medium.com/)
 
