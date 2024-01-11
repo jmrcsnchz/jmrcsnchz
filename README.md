@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm JM</h1>
 <h3 align="center">Website Penetration Tester, CTF Player<br><br><img src="https://tryhackme-badges.s3.amazonaws.com/JM.png?db&x=1" alt="TryHackMe">  </h3>
 
-- 📝 I regularly write articles on [https://jmrcsnchz.medium.com/](https://jmrcsnchz.medium.com/)
+- 📝 I regularly write articles on [https://jmrcsnchz.github.io/](https://jmrcsnchz.github.io/)
 
 - 💬 Ask me about **Anything Cybersecurity**
-
-- 📫 How to reach me **jmsanchez275@gmail.com**
 
 - [Hackerone Profile](https://hackerone.com/echidonut)
 
